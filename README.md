@@ -1,4 +1,4 @@
-#BANK MANAGEMENT SYSTEM IN C++ WITH SOURCE CODE
+<b>BANK MANAGEMENT SYSTEM IN C++ WITH SOURCE CODE</b>
 
 About Project
 Bank Management System is based on a concept of recording customer’s account details. Here the user can perform all the tasks like creating an account, deposit amount, withdraw amount, check balance, view all account holders detail, close an account and modify an account.
@@ -22,5 +22,5 @@ Features:
 
 IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF THE 8085 MICROPROCESSOR SIMULATOR FEEL FREE TO CONTACT US:
 
-Shivam Gupta: shivamguptasg1808@gmail.com
+Shivam Gupta: shivamguptasg1808@gmail.com       
 Garima Garg: ggarima163@gmail.com
